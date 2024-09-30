@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# Portfolio of Data Science and Machine Learning Projects
+# Data Science and Analytics Projects
 
-Welcome to my portfolio! This repository showcases a range of data science projects, including exploratory data analysis (EDA), predictive modeling, statistics and Python programming. Below is an overview of each project in the portfolio, along with their main objectives.
+Welcome! This repository showcases a range of data science projects, including exploratory data analysis (EDA), predictive modeling, statistics and Python programming. Below is an overview of each project in the portfolio, along with their main objectives.
 
 # Projects
 
