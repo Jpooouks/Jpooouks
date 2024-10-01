@@ -2,15 +2,15 @@
 
 Welcome! 👋 This repository showcases a range of data science projects, including exploratory data analysis (EDA), predictive modeling, statistics and Python programming. Below is an overview of each project in the portfolio, along with their main objectives.
 
-# Projects
-
-### [Football Prediction](https://github.com/Jpooouks/football_prediction)  
-This project explores European football games through detailed Exploratory Data Analysis and predictive modeling to forecast match outcomes.
-
----
+# Modeling/EDA
 
 ### [Travel Insurance Prediction](https://github.com/Jpooouks/Travel-Insurance-Prediction)  
 This project focuses on analyzing and building predictive models to forecast travel insurance purchases based on customer behavior.
+
+---
+
+### [Football Prediction](https://github.com/Jpooouks/football_prediction)  
+This project explores European football games through detailed Exploratory Data Analysis and predictive modeling to forecast match outcomes.
 
 ---
 
@@ -43,7 +43,13 @@ This project performs EDA on the Coursera dataset from Kaggle to explore the dis
 An exploratory data analysis (EDA) project focused on Spotify’s top 50 tracks of 2020, uncovering trends in popular music.
 
 ---
+# Other
 
 ### [Calculator](https://github.com/Jpooouks/calculator)  
 A simple calculator project focusing on Object-Oriented Programming (OOP), test writing, and packaging the code for PyPI and GitHub.
+
+---
+
+### [Phone Number Verifier](https://github.com/Jpooouks/Phone-Verifier)
+A quick script I wrote to save time validating phone numbers using an API endpoint from APILayer.
 
