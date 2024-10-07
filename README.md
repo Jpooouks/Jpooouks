@@ -9,7 +9,7 @@ The aim of this project is to develop a predictive model for identifying individ
 
 ---
 
-### [Travel Insurance Prediction](https://github.com/Jpooouks/Travel-Insurance-Prediction)  
+### [Modeling Travel Insurance Sales](https://github.com/Jpooouks/Travel-Insurance-Prediction)  
 This project focuses on analyzing and building predictive models to forecast travel insurance purchases based on customer behavior.
 
 ---
