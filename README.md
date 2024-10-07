@@ -3,6 +3,11 @@
 Welcome! 👋 This repository showcases a range of data science projects, including exploratory data analysis (EDA), predictive modeling, statistics and Python programming. Below is an overview of each project in the portfolio, along with their main objectives.
 
 # Modeling/EDA
+### [Modeling Stroke Risk](https://github.com/Jpooouks/Stroke-Risk)
+
+The aim of this project is to develop a predictive model for identifying individuals at risk of stroke using medical record data. The methodology includes Exploratory Data Analysis (EDA), statistical tests such as χ² and the Mann-Whitney U test, SHAP (SHapley Additive exPlanations) for model interpretability, and tree-based models like Random Forest, XGBoost, and LightGBM. Various feature engineering techniques were applied, and Optuna was used for hyperparameter optimization. The resulting model achieves a 94% balanced accuracy score on the test dataset.
+
+---
 
 ### [Travel Insurance Prediction](https://github.com/Jpooouks/Travel-Insurance-Prediction)  
 This project focuses on analyzing and building predictive models to forecast travel insurance purchases based on customer behavior.
