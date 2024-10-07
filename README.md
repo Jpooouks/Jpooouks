@@ -5,7 +5,7 @@ Welcome! 👋 This repository showcases a range of data science projects, includ
 # Modeling/EDA
 ### [Modeling Stroke Risk](https://github.com/Jpooouks/Stroke-Risk)
 
-The aim of this project is to develop a predictive model for identifying individuals at risk of stroke using medical record data. A big theme in this project was dealing with a very imbalanced dataset (positive class proportion ≈ 5%). The methodology includes Exploratory Data Analysis (EDA), statistical tests such as χ² and the Mann-Whitney U test, SHAP (SHapley Additive exPlanations) for model interpretability, and tree-based models like Random Forest, XGBoost, and LightGBM. Various feature engineering techniques were applied, and Optuna was used for hyperparameter optimization. The resulting model achieves F1 (Positive Class) of 45% and a 94% balanced accuracy score on the test dataset.
+The aim of this project is to develop a predictive model for identifying individuals at risk of stroke using medical record data. A big theme in this project was dealing with a relatively imbalanced dataset (positive class proportion ≈ 5%). The methodology includes Exploratory Data Analysis (EDA), statistical tests such as χ² and the Mann-Whitney U test, SHAP (SHapley Additive exPlanations) for model interpretability, and tree-based models like Random Forest, XGBoost, and LightGBM. Various feature engineering techniques were applied, and Optuna was used for hyperparameter optimization. The resulting model achieves F1 (Positive Class) of 45% and a 94% balanced accuracy score on the test dataset.
 
 ---
 
